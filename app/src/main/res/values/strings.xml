@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daniweb Android Validate Intents</string>
+    <string name="launch_intent">Launch Intent</string>
+</resources>
